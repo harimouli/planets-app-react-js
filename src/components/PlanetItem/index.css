@@ -1,0 +1,17 @@
+.planet-name {
+  font-size: 15px;
+  color: #f1f5f9;
+}
+.planet-description {
+  color: #f8fafc;
+  font-size: 10px;
+  text-align: center;
+}
+.planet-img {
+  width: 200px;
+}
+.planet-card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
